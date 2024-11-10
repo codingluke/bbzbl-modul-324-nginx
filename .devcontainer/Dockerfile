@@ -34,7 +34,8 @@ RUN curl https://mise.run | sh \
 # RUN mise use java@lts -g
 
 ## Nodejs
-# RUN mise use node@lts -g
+RUN mise use node@lts -g \
+  && mise x -- npm install @angular/cli -g
 
 # Funky Terminal
 RUN sh -c "$(wget -O- https://github.com/deluan/zsh-in-docker/releases/download/v1.2.0/zsh-in-docker.sh)" -- \
