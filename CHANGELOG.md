@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/codingluke/bbzbl-modul-324-template/compare/v1.2.0...v1.2.1) (2024-11-18)
+
+
+### Bug Fixes
+
+* **reflexion:** make commit message consistent ([9c782e2](https://github.com/codingluke/bbzbl-modul-324-template/commit/9c782e238a0e949f2fa0364a526aae09fa42ced3))
+
 ## [1.2.0](https://github.com/codingluke/bbzbl-modul-324-template/compare/v1.1.0...v1.2.0) (2024-11-10)
 
 
